@@ -40,3 +40,5 @@ and in your view you need to add the datepicker scripts
 </body>
 </html>
 ```
+# Screenshot
+![alt text](https://i.imgur.com/zTq0bVq.png)
