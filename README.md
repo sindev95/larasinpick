@@ -7,7 +7,7 @@ This is a simple helper package to add jQuery ui datepicker in Laravel apps.
 Require the package with composer using the following command :
 
 ```
-composer require sindev/laravel-datepicker
+composer require sindev/sinpick
 ```
 
 # Usage
@@ -23,7 +23,7 @@ Route::get('/', function () {
 and in your view you need to add the datepicker scripts
 
 ```html
-    <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
     <meta charset="utf-8">
